@@ -13,6 +13,7 @@ Designed for exceptional performance, elegant UI, and smooth user experience.
 - 🧠 Built using best practices and reusable components  
 
 ---
+---
 
 ## 🛠️ Built With
 - **Next.js 14 / React**
